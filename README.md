@@ -23,7 +23,7 @@
 
 <br/>
 
-## Puter
+## Puter 2.0
 
 Puter is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. It can be used to build remote desktop environments or serve as an interface for cloud storage services, remote servers, web hosting platforms, and more.
 
